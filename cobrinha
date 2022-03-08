@@ -15,7 +15,7 @@ empregos :
       - eua : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : devemdobro
+          github_user_name :  Luizottoni
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - eua : crazy-max/ghaction-github-pages@v2.1.3
